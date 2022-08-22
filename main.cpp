@@ -13,7 +13,7 @@ bool RollDiceMulti(int player, int count, int point);
 int GetPlayerBet(int player, const double balance, const double initialBalance);
 void AdjustWages(int activePlayer, double & p1Balance, double & p2Balance, double bet, bool winner);
 
-// I am greatness
+
 int main()
 {
 
